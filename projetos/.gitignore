@@ -1,0 +1,30 @@
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build folders
+/bin/
+
+# Other IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

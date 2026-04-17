@@ -1,23 +1,25 @@
-# Java Studies
+# Estudos de Java
 
-This repository contains my studies in Java, focusing on:
+Esse repositório contém meus estudos práticos em Java, focados em:
+- Algoritmos
+- Soluções de problemas
+- Pequenos projetos
 
-- Algorithms
-- Problem Solving
+## Estrutura
 
-## Structure
+- studies → seguindo um formato de aulas simples introduzindo/revisando conceitos de programação
+- projects → pequenos projetos
+- beecrowd → exercícios da plataforma "beecrowd.com"
+    - cada nome de classe seguirá: <título>_<númeroDoExercicio> (seguindo as informações que estão na plataforma)
 
-- studies → small exercises and concepts
-- projects → complete applications
+## Objetivos
 
-## Goals
-
-- Improve problem-solving skills
-- Write clean and maintainable code
-- Prepare for professional development
-
-## Objectives
-
-- studies → write code by hand in each lesson to reinforce concepts and improve understanding
-- projects → build applications that follow conventions, are reusable, and easy to maintain
-- both → practice English
+- Praticar o que estou estudando
+- Fortalecer minhas habilidades de interpretação e de solução de problemas
+- Escrever um código limpo e de fácil manutenção
+- studies → escrever códigos á mão em cada lição, a ponto que eu consiga revisar bem o asssunto que está sendo abordado só com aquele arquivo
+- projects → construir aplicações que:
+    - sigam convenções
+    - sejam reutilizáveis
+    - fácil de manter
+- beecrowd → treinar interpretação e capacidade de solucionar problemas
